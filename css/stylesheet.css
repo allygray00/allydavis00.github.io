@@ -1,6 +1,7 @@
 /*header style */
 body {
-	margin: 500px;
+	padding-left: 500px;
+	padding-right: 500px;
 }
 .header-name{
 	text-align: center;
