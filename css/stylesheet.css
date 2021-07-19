@@ -1,4 +1,7 @@
 /*header style */
+body {
+	margin: 50px;
+}
 .header-name{
 	text-align: center;
 	font-family: raleway;
