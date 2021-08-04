@@ -1,7 +1,7 @@
 .content {
 	max-width: 90%;
 	margin: auto;
-	align: center;
+	float: center;
 }
 
 /*header style */
