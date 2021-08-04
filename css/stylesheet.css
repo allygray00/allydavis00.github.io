@@ -18,7 +18,7 @@
 	font-family: raleway;
 }
 .nav a{
-	float: center;
+	float: left;
     display: block;
 	color: #F3FFF3;
     background: #B1D3B0;
@@ -26,7 +26,7 @@
     padding: 14px 16px;
     font-size: 17px;
 	text-decoration: none;
-	width:31%;
+	width:32%;
 	text-align: center;
 }
 .nav a:hover {
