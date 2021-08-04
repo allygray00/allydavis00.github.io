@@ -16,6 +16,7 @@
 	overflow: hidden;
 	background: #B1D3B0;
 	font-family: raleway;
+	align-items: center;
 }
 .nav a{
 	float: left;
