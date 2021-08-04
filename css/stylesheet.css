@@ -1,8 +1,7 @@
-/*.content {
-	max-width: 90%;
-	margin: auto;
-	float: center;
-}*/
+.content{
+	width: 90%;
+	margin:auto;
+}
 
 /*header style */
 .header-name{
